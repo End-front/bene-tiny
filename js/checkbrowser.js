@@ -1,0 +1,1 @@
+"use strict";window.checkBrowser={},window.checkBrowser.supportsTouch=!!("ontouchstart"in window||navigator.maxTouchPoints),window.checkBrowser.supportsTouch?document.documentElement.classList.add("touch-browser"):document.documentElement.classList.add("courser-browser");
